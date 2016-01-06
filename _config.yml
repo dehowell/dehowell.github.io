@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink:        pretty
+
+gems:
+  - jekyll-paginate
+
+# Setup
+title:            Poorly-Trained Ape
+tagline:          'A digital commonplace book; a place to think in public.'
+description:      ''
+url:              http://www.poorlytrainedape.com
+
+author:
+  name:           'David Howell'
+  url:            https://twitter.com/dehowell
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon
