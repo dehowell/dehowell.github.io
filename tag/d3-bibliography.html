@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    <!-- {{ post.tags }} -->
+  {% for post in site.tags.d3 %}
+
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -14,7 +14,7 @@ layout: default
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
