@@ -1,5 +1,5 @@
 ---
-title: The Gentle Art of Enterprise Code Review
+title: "The Gentle Art of Enterprise Code Review"
 layout: post
 ---
 

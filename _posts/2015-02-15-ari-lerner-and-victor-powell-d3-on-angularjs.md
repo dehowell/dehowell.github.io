@@ -1,5 +1,5 @@
 ---
-title: Ari Lerner and Victor Powell: D3 on AngularJS
+title: "Ari Lerner and Victor Powell: D3 on AngularJS"
 layout: post
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Margin Convention"
+title: "Mike Bostock: \"Margin Convention\""
 layout: post
 ---
 

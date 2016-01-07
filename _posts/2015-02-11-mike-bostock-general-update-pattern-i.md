@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "General Update Pattern, I"
+title: "Mike Bostock: \"General Update Pattern, I\""
 layout: post
 ---
 

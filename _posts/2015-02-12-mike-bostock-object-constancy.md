@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Object Constancy"
+title: "Mike Bostock: \"Object Constancy\""
 layout: post
 ---
 

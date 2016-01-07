@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Thinking With Joins"
+title: "Mike Bostock: \"Thinking With Joins\""
 layout: post
 ---
 

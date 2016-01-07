@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Histogram"
+title: "Mike Bostock: \"Histogram\""
 layout: post
 ---
 

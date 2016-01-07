@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Let's Make a Bar Chart"
+title: "Mike Bostock: \"Let's Make a Bar Chart\""
 layout: post
 ---
 

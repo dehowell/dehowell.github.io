@@ -1,5 +1,5 @@
 ---
-title: Manuel DeLanda's Philosophical Chemistry
+title: "Manuel DeLanda's Philosophical Chemistry"
 layout: post
 ---
 

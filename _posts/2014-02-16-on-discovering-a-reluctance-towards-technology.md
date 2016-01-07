@@ -1,5 +1,5 @@
 ---
-title: On Discovering a Reluctance Towards Technology
+title: "On Discovering a Reluctance Towards Technology"
 layout: post
 ---
 

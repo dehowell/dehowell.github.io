@@ -1,5 +1,5 @@
 ---
-title: Mike Bostock: "Towards Reusable Charts"
+title: "Mike Bostock: \"Towards Reusable Charts\""
 layout: post
 ---
 

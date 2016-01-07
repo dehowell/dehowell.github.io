@@ -1,5 +1,5 @@
 ---
-title: Hadley Wickham: ggplot2 geom_point documentation
+title: "Hadley Wickham: ggplot2 geom_point documentation"
 layout: post
 ---
 

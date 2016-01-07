@@ -1,5 +1,5 @@
 ---
-title: A Human-Friendly System for Using Evernote
+title: "A Human-Friendly System for Using Evernote"
 layout: post
 ---
 
