@@ -1,6 +1,6 @@
 ---
 title: What I'm doing now
-layout: post
+layout: page
 ---
 
 I'm in Vermont, splitting my time between:
