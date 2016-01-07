@@ -1,9 +1,13 @@
 ---
 title: "Mike Bostock: \"Histogram\""
-layout: post
+layout: biblio
+tags:
+  - d3
+source:
+  author: Mike Bostock
+  url: http://bl.ocks.org/mbostock/3048450
+  title: "Histogram"
 ---
-
-[Mike Bostock: "Histogram"][article]
 
 D3 provides several "layout" objects, each of which restructures a data set to match the requirements of a particular presentation style. The first of these I've tried to wrap my head around is the histogram, which groups a flat data set into bins. Although the [documentation][11a] describes the resulting structure, I had to see it for myself in the console to wrap my head around what to do with the result.
 
@@ -37,7 +41,3 @@ var bar = svg.selectAll(".bar")
 
 
 [11a]: https://github.com/mbostock/d3/wiki/Histogram-Layout#_histogram "Histogram Layout"
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://bl.ocks.org/mbostock/3048450 "Histogram"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/

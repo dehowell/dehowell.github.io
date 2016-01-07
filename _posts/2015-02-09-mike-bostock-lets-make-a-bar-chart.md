@@ -1,9 +1,13 @@
 ---
 title: "Mike Bostock: \"Let's Make a Bar Chart\""
-layout: post
+layout: biblio
+tags:
+  - d3
+source:
+  author: Mike Bostock
+  url: http://bost.ocks.org/mike/bar/
+  title: "Let's Make a Bar Chart"
 ---
-
-[Mike Bostock: "Let's Make a Bar Chart"][article]
 
 The canonical D3 tutorial, introducing selections, the method-chaining style of the D3 API, using a data join to create elements, mapping data to properties of DOM nodes, and introducing scales to translate between the bounds of your data and the bounds of the elements in the page.
 
@@ -18,8 +22,3 @@ clearly:
 > Since method chaining can only be used to descend into the document hierarchy, use `var` to keep references to selections and go back up.
 
 It's just that it doesn't stick until you've been confused by a few examples - and start remembering which API methods return a new selection.
-
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://bost.ocks.org/mike/bar/ "Let's Make a Bar Chart"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/ "D3.js Annotated Bibliography"

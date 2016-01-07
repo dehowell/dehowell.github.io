@@ -1,9 +1,14 @@
 ---
 title: "Hadley Wickham: ggplot2 geom_point documentation"
-layout: post
----
+layout: biblio
+tags:
+  - d3
+source:
+  author: Hadley Wickham
+  url: http://docs.ggplot2.org/current/geom_point.html
+  title: "ggplot2: geom_point documentation"
 
-[Hadley Wickham: ggplot2 `geom_point` documentation][article]
+---
 
 Although `ggplot2` is higher level library (and, *I know*, for R and not the web), there's some conceptual similarity between it and D3 that I think can help illuminate the latter.
 
@@ -40,8 +45,3 @@ svg.selectAll("circle")
 ```
 
 ggplot is higher-level here primarily because it encapsulates the visual options in its `geom_*` function, each of which represents a different layer you can add on to the chart. D3 has no such nicety so that you work directly with DOM nodes and SVG nodes.
-
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://docs.ggplot2.org/current/geom_point.html "ggplot2: geom_point documentation"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/

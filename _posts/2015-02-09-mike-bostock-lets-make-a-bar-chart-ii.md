@@ -1,11 +1,13 @@
 ---
 title: "Mike Bostock: \"Let's Make a Bar Chart, II\""
-layout: post
+layout: biblio
 tags:
   - d3
+source:
+  author: Mike Bostock
+  url: http://bost.ocks.org/mike/bar/2/
+  title: "Let's Make a Bar Chart, II"
 ---
-
-[Mike Bostock: "Let's Make a Bar Chart, II"][article]
 
 On to part two, which introduces basic SVG, loading data from external files,
 and data structured as an array of objects instead of just an array of values.
@@ -44,8 +46,3 @@ bar.append("text")
     .attr("dy", ".35em")
     .text(function(d) { return d; });
 ```
-
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://bost.ocks.org/mike/bar/2/ "Let's Make a Bar Chart, II"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/

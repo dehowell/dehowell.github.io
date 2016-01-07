@@ -1,9 +1,14 @@
 ---
 title: "Mike Bostock: \"Margin Convention\""
-layout: post
----
+layout: biblio
+tags:
+  - d3
+source:
+  author: Mike Bostock
+  url: http://bl.ocks.org/mbostock/3019563
+  title: "Margin Convention"
 
-[Mike Bostock: "Margin Convention"][article]
+---
 
 This article lays out a convention for specifying margins on a D3 graphic that lets you customize them per-side and then mostly ignore them in subsequent calculations - at least if you're working with SVG, where you can wrap the entire plot in a `<g>` and have that handle the margins for you:
 
@@ -14,8 +19,3 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 ```
-
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://bl.ocks.org/mbostock/3019563 "Margin Convention"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/

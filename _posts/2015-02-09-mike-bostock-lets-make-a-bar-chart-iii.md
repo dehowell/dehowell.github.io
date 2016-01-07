@@ -1,9 +1,13 @@
 ---
 title: "Mike Bostock: \"Let's Make a Bar Chart, III\""
-layout: post
+layout: biblio
+tags:
+  - d3
+source:
+  author: Mike Bostock
+  url: http://bost.ocks.org/mike/bar/3/
+  title: "Let's Make a Bar Chart, III"
 ---
-
-[Mike Bostock: "Let's Make a Bar Chart, III"][article]
 
 Part three of the bar chart tutorial introduces **ordinal scales**. In an ordinal scale, the input data set takes one of a discrete set of values. Unless we're mapping an ordinal variable to colors, the geometric parameters of SVG elements need to be numerical. Setting up an ordinal scale is more involved than a linear scale because there are simply more ways you might want to map a single value to a range of numbers.
 
@@ -33,8 +37,3 @@ _.map(data, scale.rangeRoundPoints([0, 100]) // => [0, 20, 40, 60, 80, 100]
 It really does come down to bands requiring some width, so the range is subdivided into evenly-spaced regions. Points are assumed to not have width, so the start and of the range can themselves be used for positioning data.
 
 Part three also introduces axes, a convention for handling margins, and gives a hat tip to the `ggplot` library for R.
-
-_This post is part of my [D3.js Annotated Bibliography][d3biblio]_
-
-[article]: http://bost.ocks.org/mike/bar/3/ "Let's Make a Bar Chart, III"
-[d3biblio]: http://www.poorlytrainedape.com/tag/d3-bibliography/
