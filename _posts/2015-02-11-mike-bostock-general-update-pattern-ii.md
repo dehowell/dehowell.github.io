@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "General Update Pattern, II"
+layout: post
+---
+
 [Mike Bostock: "General Update Pattern, II"][article]
 
 When updating a selection with new data, D3 uses a _key function_ provided with the data set to match up elements of the data set with the elements in the DOM to compute the update, enter, and exit selections.

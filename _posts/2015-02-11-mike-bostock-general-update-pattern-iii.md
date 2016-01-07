@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "General Update Pattern, III"
+layout: post
+---
+
 [Mike Bostock: "General Update Pattern, III"][article]
 
 Transitions help make the role of the key function clear. Moral of the story: if you're going to animate your data, you probably need to use a key function.

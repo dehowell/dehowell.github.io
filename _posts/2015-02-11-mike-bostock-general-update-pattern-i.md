@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "General Update Pattern, I"
+layout: post
+---
+
 [Mike Bostock: "General Update Pattern, I"][article]
 
 Bostock explains the different types of selection, using just text elements for a barebones example. D3 binds data to DOM nodes by setting the datum as the `__data__` property of the node. Whenever you call `data(dataset)` on a D3 selection, the provided dataset is matched up with the DOM nodes in the selection. In the example, `text` is the _update selection_.

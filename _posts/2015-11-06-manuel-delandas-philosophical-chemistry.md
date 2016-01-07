@@ -1,3 +1,8 @@
+---
+title: Manuel DeLanda's Philosophical Chemistry
+layout: post
+---
+
 I just started reading Manuel DeLanda's [new book][1], _Philosophical Chemistry_, last night. I could tell from just the opening paragraph that this is _exactly_ the book I want to be reading right now:
 
 > There is no such thing as Science. The word "Science" refers to a reified generality that together with others, like Nature and Culture, has been a constant source of false problems: are controversies in Science decided by Nature or Culture? Avoiding badly posed problems requires that we replace Science with a _population of individual scientific fields_, each with its own concepts, statements, significant problems, taxonomic and explanatory schemas.

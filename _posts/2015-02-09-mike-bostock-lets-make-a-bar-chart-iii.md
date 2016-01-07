@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Let's Make a Bar Chart, III"
+layout: post
+---
+
 [Mike Bostock: "Let's Make a Bar Chart, III"][article]
 
 Part three of the bar chart tutorial introduces **ordinal scales**. In an ordinal scale, the input data set takes one of a discrete set of values. Unless we're mapping an ordinal variable to colors, the geometric parameters of SVG elements need to be numerical. Setting up an ordinal scale is more involved than a linear scale because there are simply more ways you might want to map a single value to a range of numbers.

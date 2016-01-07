@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Towards Reusable Charts"
+layout: post
+---
+
 [Mike Bostock: "Towards Reusable Charts"][article]
 
 Bostock describes a simple implementation of a reusable charting function, which itself has getter and setter methods for adjusting its configuration. The user of the charting function would invoke it something like:

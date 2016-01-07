@@ -1,3 +1,8 @@
+---
+title: iOS Dictation Versus Children's Books
+layout: post
+---
+
 Here's a machine-generated oddity to start the day: [_Little Blue Trick_][1] filtered through iOS 8 voice dictation.
 
 > Little blue truck him down the road  

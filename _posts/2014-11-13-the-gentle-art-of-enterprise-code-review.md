@@ -1,3 +1,8 @@
+---
+title: The Gentle Art of Enterprise Code Review
+layout: post
+---
+
 Sarah Sharp, [The Gentle Art of Patch Review][ref1]:
 
 > [&hellip;] I propose a three-phase review process for maintainers:

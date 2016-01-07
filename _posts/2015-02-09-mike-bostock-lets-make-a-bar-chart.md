@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Let's Make a Bar Chart"
+layout: post
+---
+
 [Mike Bostock: "Let's Make a Bar Chart"][article]
 
 The canonical D3 tutorial, introducing selections, the method-chaining style of the D3 API, using a data join to create elements, mapping data to properties of DOM nodes, and introducing scales to translate between the bounds of your data and the bounds of the elements in the page.

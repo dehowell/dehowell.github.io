@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Thinking With Joins"
+layout: post
+---
+
 [Mike Bostock: "Thinking With Joins"][article]
 
 Discusses the motivation behind the declarative style of D3 (as opposed to iterating manually over your data to create and modify DOM elements) as well as defining how the join between data and DOM elements translates to the enter, update, and exit selections.

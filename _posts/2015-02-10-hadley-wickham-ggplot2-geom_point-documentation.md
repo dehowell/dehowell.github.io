@@ -1,3 +1,8 @@
+---
+title: Hadley Wickham: ggplot2 geom_point documentation
+layout: post
+---
+
 [Hadley Wickham: ggplot2 `geom_point` documentation][article]
 
 Although `ggplot2` is higher level library (and, *I know*, for R and not the web), there's some conceptual similarity between it and D3 that I think can help illuminate the latter.

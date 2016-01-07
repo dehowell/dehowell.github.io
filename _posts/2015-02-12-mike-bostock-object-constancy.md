@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Object Constancy"
+layout: post
+---
+
 [Mike Bostock: "Object Constancy"][article]
 
 > Animated transitions are pretty, but they also serve a purpose: they make it easier to follow the data.

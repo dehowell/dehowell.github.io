@@ -1,3 +1,8 @@
+---
+title: Mike Bostock: "Histogram"
+layout: post
+---
+
 [Mike Bostock: "Histogram"][article]
 
 D3 provides several "layout" objects, each of which restructures a data set to match the requirements of a particular presentation style. The first of these I've tried to wrap my head around is the histogram, which groups a flat data set into bins. Although the [documentation][11a] describes the resulting structure, I had to see it for myself in the console to wrap my head around what to do with the result.

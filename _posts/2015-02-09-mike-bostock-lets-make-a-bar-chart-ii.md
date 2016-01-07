@@ -1,6 +1,6 @@
 ---
+title: Mike Bostock: "Let's Make a Bar Chart, II"
 layout: post
-title:  "Mike Bostock: Let's Make a Bar Chart, II"
 ---
 
 [Mike Bostock: "Let's Make a Bar Chart, II"][article]
