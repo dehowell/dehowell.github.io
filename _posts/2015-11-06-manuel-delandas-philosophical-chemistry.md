@@ -14,7 +14,7 @@ He has a method for modeling an individual scientific field, whose main elements
 - the instruments and techniques used by practioners to explore the domain
 - the social context in which practioners operate
 
-![Sketchnotes from the introduction to _Philosophical Chemistry_](/content/images/2015/11/delanda_sketchnotes.jpeg)
+![Sketchnotes from the introduction to _Philosophical Chemistry_](/img/2015/11/delanda_sketchnotes.jpg)
 
 His aim is to test this model by tracing the development of chemistry from 1750 to 1900, through its textbooks.
 
