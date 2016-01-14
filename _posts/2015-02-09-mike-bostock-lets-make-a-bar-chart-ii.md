@@ -3,6 +3,7 @@ title: "Mike Bostock: \"Let's Make a Bar Chart, II\""
 layout: biblio
 tags:
   - d3
+date: 2015-02-09 20:10:00
 source:
   author: Mike Bostock
   url: http://bost.ocks.org/mike/bar/2/
