@@ -385,3 +385,6 @@ In late 2010, I started tracking every book that I read. This is the list. The b
 - Kim Stanley Robinson. _Aurora_.
 - Joe Buhlig. _Working with OmniFocus_.
 - Cal Newport. _Deep Work_.
+- Nick Winter. _The Motivation Hacker_.
+- Neal Stephenson. _Seveneves_.
+- Leigh Phillips. _Austerity Ecology and Collapse-Porn Addicts_.
