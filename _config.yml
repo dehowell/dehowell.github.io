@@ -12,10 +12,10 @@ gems:
   - jekyll-paginate
 
 # Setup
-title:            Poorly-Trained Ape
+title:            Howell.IO
 tagline:          'A digital commonplace book; a place to think in public.'
 description:      ''
-url:              http://www.poorlytrainedape.com
+url:              http://www.howell.io
 
 author:
   name:           'David Howell'

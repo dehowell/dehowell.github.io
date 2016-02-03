@@ -11,7 +11,7 @@ But I still keep wanting to use it and now I know why: as a scaffold for **valui
 
 [^1]: The article is _way_ better than the title sounds.
 
-[love-hate]: http://www.poorlytrainedape.com/on-discovering-a-reluctance-towards-technology/
+[love-hate]: /2014/02/16/on-discovering-a-reluctance-towards-technology/
 [forte-evernote]: https://medium.com/forte-labs/how-to-use-evernote-for-your-creative-workflow-f048f0aa3ed1#.ndtw66ba2
 [architects]: http://www.ribbonfarm.com/2015/12/17/we-are-all-architects-now/
 [untitled]: http://daringfireball.net/2009/02/untitled_document_syndrome
