@@ -12,7 +12,7 @@ gems:
   - jekyll-paginate
 
 # Setup
-title:            Howell.IO
+title:            howell.io
 tagline:          'A digital commonplace book; a place to think in public.'
 description:      ''
 url:              http://www.howell.io
