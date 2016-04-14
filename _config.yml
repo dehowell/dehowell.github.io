@@ -32,3 +32,11 @@ github:
 # Octopress settings
 post_ext: md
 post_template: post
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
