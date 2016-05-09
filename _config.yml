@@ -40,3 +40,9 @@ defaults:
       type: "posts"
     values:
       comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      in_sidebar: false

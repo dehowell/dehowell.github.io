@@ -1,6 +1,7 @@
 ---
 title: Now
 layout: page
+in_sidebar: true
 ---
 
 I'm in Vermont, splitting my time between:
