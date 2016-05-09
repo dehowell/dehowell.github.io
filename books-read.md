@@ -388,3 +388,26 @@ In late 2010, I started tracking every book that I read. This is the list. The b
 - Nick Winter. _The Motivation Hacker_.
 - Neal Stephenson. _Seveneves_.
 - Leigh Phillips. _Austerity Ecology and Collapse-Porn Addicts_.
+- Jo Walton. _The Just City_.
+- Ben Elijah. _The Productivity Habits_.
+- Jo Walton. _The Philosopher Kings_.
+- Josiah L. Carlson. _Redis in Action_.
+- Jo Walton. _What Makes This Book So Great_.
+- Vernor Vinge. _A Fire Upon the Deep_.
+- Robert Heilbroner and Lester Thurow. _Economics Explained_.
+- John Holbo and Belle Waring. _Reason and Persuasion_.
+- Giulia Enders. _Gut_.
+- Daniel Westheide. _The Neophyte's Guide to Scala_.
+- Isaiah Berlin. _The Crooked Timber of Humanity_.
+- Brandon Sanderson. _Mistborn_.
+- Kurt Vonnegut. _Slapstick_.
+- Gretchen Rubin. _Better Than Before_.
+- Robert C. Martin. _Clean Code_.
+- Brandon Sanderson. _The Well of Ascension_.
+- Paul Vigna and Michael Casey. _The Age of Cryptocurrency_.
+- Andreas M. Antonopoulos. _Mastering Bitcoin_.
+- Bertrand Russell. _The Conquest of Happiness_.
+- Brandon Sanderson. _The Hero of Ages_.
+- Ethan Nichtern. _The Road Home_.
+- Dexter Palmer. _Version Control_.
+- Gary Gutting. _Foucault: A Very Short Introduction_.
