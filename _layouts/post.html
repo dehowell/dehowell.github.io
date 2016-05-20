@@ -24,7 +24,7 @@ layout: default
   </ul>
 </div>
 
-{% if page.comments %}
+{% if page.comments and jekyll.environment == "production" %}
 <!-- Disqus comments-->
 <div id="disqus_thread"></div>
 <script>
