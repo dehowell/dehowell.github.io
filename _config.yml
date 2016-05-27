@@ -40,9 +40,11 @@ defaults:
       type: "posts"
     values:
       comments: true
+      mathjax: false
   -
     scope:
       path: ""
       type: "pages"
     values:
       in_sidebar: false
+      mathjax: false
