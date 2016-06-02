@@ -4,11 +4,11 @@ title: "Review: Anger and Forgiveness"
 date: 2016-06-02T04:31:11-04:00
 ---
 
-Stoicism is having a cultural moment - from [Ryan Holiday][1] and [Tim Ferriss][2] to [Massimo Pigluicci in the New York Times][3] and [Maria Popova on Brain Pickings][4], the Stoics are getting name-checked and highlighted left and right[^1]. But as much as modern adoptees emphasize that our modern adjective "stoic" misinterprets their philosophical approach to emotion, classics like _The Handbook_ of Epictetus do seem to be pretty cold towards love and relationships:
+Stoicism is having a cultural moment - from [Ryan Holiday][1] and [Tim Ferriss][2] to [Massimo Pigluicci in the New York Times][3] and [Maria Popova on Brain Pickings][4], the Stoics are getting name-checked and highlighted left and right[^1]. Modern adoptees are quick to distinguish our modern adjective "stoic" from the classic Stoic attitude to emotion, but classics like Epictetus' [_Handbook_][5] do seem to be pretty cold towards love and relationships:
 
 > Remember that you should behave in life as you do at a banquet. Something is being passed around and arrives in front of you: reach out your hand take your share politely. It passes: don't try to hold it back. It has yet to reach you: don't project your desire towards it, but wait until it arrives in front of you. So act likewise with regard to your children, to your wife, to public office, to riches, and the time will come come when you're worthy to have a seat at the banquets of the gods. **And if you don't take these things when they're in front of you, but view them with contempt, then you'll not only share in the banquets of the god, but also in their rule.**
 
-That's a little brutal. I'm still a fan[^2], but I like to take a more pragmatic view: I'll try on insights from the Stoics, but shed them if they don't feel right. What I've done piecemeal and by intuition, Martha Nussbaum has done with great clarity and discipline across a broad swath of life in her latest book, [_Anger and Forgiveness_][5].
+That's a little brutal. I'm still a fan[^2], but I like to take a more pragmatic view: I'll try on insights from the Stoics, but shed them if they don't feel right. What I've done piecemeal and by intuition, Martha Nussbaum has done with great clarity and discipline across a broad swath of life in her latest book, [_Anger and Forgiveness_][6].
 
 Nussbaum addresses _anger_ , which she defines as taking joy in the prospect of retribution at someone who has committed an act that you believe has harmed you.     In her analysis, she distinguishes between anger being _well-grounded_ and _justified_. While there are many cases where the target caused deliberate, substantive harm, making anger well-grounded, Nussbaum rejects the idea that the anger is _justified_ as a rational response. We may not be able to control our initial tendency towards anger[^3], but we should not endorse it as _correct_.
 
@@ -18,7 +18,7 @@ She divides her analysis into three realms: intimate relationships, casuaul acqu
 
 > Should one yield immediately to the irrationality of life? The world often poses that question. But the belief that the world ought to be rational, and that simply pointing out that something is irrational will effect change, is a Senecan recipe for constant anger, and for dreams filled with irritating people who ought to be no part of one's inner life.
 
-However, she rejects _absolute_ detachment from those goods. Our reputation, health, and trust in our relationships all have essential value. The Stoics have their metaphysical reasons for considering virtue the sole good, but Martha Nussbaum is solidly utilitarian. Our material and social well-being are critical to our happiness; grief is therefore appropriate when that well-being is damaged. It's also important to call out wrong-doing and pursue justice, for the sake of preventing future damage, but she recommends letting the law pursue the offender, as an impartial third-party less likely to escalate in retaliation. The alternative is to risk the cycles of retribution [common in honor cultures][6].
+However, she rejects _absolute_ detachment from those goods. Our reputation, health, and trust in our relationships all have essential value. The Stoics have their metaphysical reasons for considering virtue the sole good, but Martha Nussbaum is solidly utilitarian. Our material and social well-being are critical to our happiness; grief is therefore appropriate when that well-being is damaged. It's also important to call out wrong-doing and pursue justice, for the sake of preventing future damage, but she recommends letting the law pursue the offender, as an impartial third-party less likely to escalate in retaliation. The alternative is to risk the cycles of retribution [common in honor cultures][7].
 
 Outside of mathematics, I'm skeptical of attempts to derive _everything_ from a small set of axioms (even if the exercise can be interesting). Stoic metaphysics leans a little too far in that direction, so I'm grateful to Martha Nussbaum for offering another path to similar ideas -- one that better fits my temperment. Philosophy books can be intense, but _Anger and Forgiveness_ was quite readable and practical -- I highly recommend it.
 
@@ -34,5 +34,6 @@ Outside of mathematics, I'm skeptical of attempts to derive _everything_ from a 
 [2]:	https://www.youtube.com/watch?v=88Ui_nflxkA
 [3]:	http://opinionator.blogs.nytimes.com/2015/02/02/how-to-be-a-stoic/?pagewanted=all&_r=0
 [4]:	https://www.brainpickings.org/2014/09/01/seneca-on-the-shortness-of-life/
-[5]:	http://www.amazon.com/dp/0199335877
-[6]:	https://en.wikipedia.org/wiki/Hatfield%E2%80%93McCoy_feud
+[5]:	http://classics.mit.edu/Epictetus/epicench.html
+[6]:	http://www.amazon.com/dp/0199335877
+[7]:	https://en.wikipedia.org/wiki/Hatfield%E2%80%93McCoy_feud
