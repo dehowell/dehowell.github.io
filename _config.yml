@@ -48,3 +48,10 @@ defaults:
     values:
       in_sidebar: false
       mathjax: false
+
+exclude:
+- vendor
+- script
+- README.md
+- LICENSE.md
+- Gemfile*
