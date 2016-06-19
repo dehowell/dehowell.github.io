@@ -16,6 +16,7 @@ title:            howell.io
 tagline:          'A digital commonplace book; a place to think in public.'
 description:      ''
 url:              http://www.howell.io
+timezone:         America/New_York
 
 author:
   name:           'David Howell'
