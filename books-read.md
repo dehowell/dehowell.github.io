@@ -380,15 +380,20 @@ In late 2010, I started tracking every book that I read. This is the list. The b
 ## 2016
 
 - Russ Harris. _The Happiness Trap_.
+- Michael Feathers. _Working Effectively with Legacy Code_.
+- Cal S. Horstmann. _Scala for the Impatient_.
+- Pierre Hadot. _The Inner Citadel_.
+- David Scott Bernstein. _Beyond Legacy Code_.
 - Cixin Liu. _The Dark Forest_.
+- Vaughn Vernon. _Reactive Messaging Patterns_.
 - Michael Lewis. _The Big Short_.
-- Kim Stanley Robinson. _Aurora_.
 - Joe Buhlig. _Working with OmniFocus_.
+- Kim Stanley Robinson. _Aurora_.
 - Cal Newport. _Deep Work_.
 - Nick Winter. _The Motivation Hacker_.
 - Neal Stephenson. _Seveneves_.
-- Leigh Phillips. _Austerity Ecology and Collapse-Porn Addicts_.
 - Jo Walton. _The Just City_.
+- Leigh Phillips. _Austerity Ecology and Collapse-Porn Addicts_.
 - Ben Elijah. _The Productivity Habits_.
 - Jo Walton. _The Philosopher Kings_.
 - Josiah L. Carlson. _Redis in Action_.
@@ -409,5 +414,28 @@ In late 2010, I started tracking every book that I read. This is the list. The b
 - Bertrand Russell. _The Conquest of Happiness_.
 - Brandon Sanderson. _The Hero of Ages_.
 - Ethan Nichtern. _The Road Home_.
+- Allen Downey. _Think Bayes_.
 - Dexter Palmer. _Version Control_.
 - Gary Gutting. _Foucault: A Very Short Introduction_.
+- Martha Nussbaum. _Anger and Forgiveness_.
+- Cam Davidson-Pilon. _Bayesian Methods for Hackers_.
+- Dave Thomas. _Programming Elixir 1.2_.
+- Brad Warner. _Don't Be a Jerk_.
+- Ada Palmer. _Too Like the Lightning_.
+- Hope Jahren. _Lab Girl_.
+- Robert Kegan. _In Over Our Heads_.
+- Peter Watts. _Blindsight_.
+- Patrick Rothfuss. _The Name of the Wind_.
+- bell hooks. _Feminism is for Everybody_.
+- Robert Kegan and Lisa Lahey. _An Everyone Culture_.
+- Ryan Holiday. _Ego is the Enemy_.
+- Patrick Rothfuss. _The Wise Man's Fear_.
+- Harry Frankfurt. _On Bullshit_.
+- Pierre Bayard. _How to Talk About Books You Haven't Read_.
+- J.L. Collins. _The Simple Path to Wealth_.
+- Steven Strogatz. _The Joy of X_.
+- Charles Duhigg. _Smarter Faster Better_.
+- Jo Walton. _Necessity_.
+- David R. Loy. _The World is Made of Stories_.
+- J.D. Vance. _Hillbilly Elegy_.
+- Jonathan Haidt. _The Righteous Mind_.
