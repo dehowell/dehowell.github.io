@@ -40,7 +40,6 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: true
       mathjax: false
   -
     scope:
