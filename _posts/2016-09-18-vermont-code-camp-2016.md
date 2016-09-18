@@ -6,7 +6,7 @@ date: 2016-09-18T14:59:53-04:00
 
 [Vermont Code Camp][1] was yesterday. As usual, it was a friendly and inclusive environment. The organizers (Rob Hale and Julie Lerman) do their best to accept every proposal, so it's a great place for folks to try out public speaking in front of an audience of a few dozen people.
 
-I gave a talk titled "Seeing the Matrix with tcpdump", which was all about how to peak under the head of application protocols like HTTP using tools for troubleshooting TCP connections. Coincidentally, Julia Evans (whom I was citing in my own slides) gave talk on a variety of debugging tools the day before at [Strange Loop][4]. If you saw and enjoyed my talk, I'm guessing you'll like hers.
+I gave the talk "Seeing the Matrix with tcpdump", which was all about how to peak under the head of application protocols like HTTP using tools for troubleshooting TCP connections. Coincidentally, Julia Evans (whom I was citing in my own slides) gave talk on a variety of debugging tools the day before at [Strange Loop][4]. If you saw and enjoyed my talk, I'm guessing you'll like hers.
 
 ![](/img/2016/09/vtcodecamp2016.png)
 
