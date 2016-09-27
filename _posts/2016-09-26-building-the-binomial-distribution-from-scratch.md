@@ -30,13 +30,15 @@ If there were _n_ trials (flips) total, the other _n - k_ must have been failure
 
 ![](/img/2016/09/binomial_h2.png)
 
-Those heads could have come in any order, so we have to add up the probability for all [_n choose k_][2] arrangements.
+Those heads could have come in any order, so we have to add up the probability for all [_n choose k_][2][^2] arrangements.
 
 ![](/img/2016/09/binomial_h3.png)
 
 And that's the binomial distribution. I like stepping back to work through the fundamentals from time to time --- it's a good reminder that the most technical and obscure topics are still built from the ground up from small steps that make sense.
 
 [^1]: About 25%, computed in R with `dbinom(5, 10, 0.5)`.
+
+[^2]: Yeah, I'm hand-waving past the hard part.
 
 [1]: http://www.johndcook.com/blog/distribution_chart/
 [2]: https://en.wikipedia.org/wiki/Binomial_coefficient
