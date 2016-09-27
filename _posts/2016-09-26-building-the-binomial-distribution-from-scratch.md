@@ -34,7 +34,7 @@ Those heads could have come in any order, so we have to add up the probability f
 
 ![](/img/2016/09/binomial_h3.png)
 
-And that's the binomial distribution.
+And that's the binomial distribution. I like stepping back to work through the fundamentals from time to time --- it's a good reminder that the most technical and obscure topics are still built from the ground up from small steps that make sense.
 
 [^1]: About 25%, computed in R with `dbinom(5, 10, 0.5)`.
 
