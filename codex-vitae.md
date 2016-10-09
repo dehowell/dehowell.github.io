@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Codex Vitae"
+in_sidebar: true
 ---
 
 # The Codex Vitae of David Howell
