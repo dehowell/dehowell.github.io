@@ -13,10 +13,6 @@ author:
 # Integrations
 google_analytics_id   : 'UA-72069603-1'
 
-# Octopress Settings
-post_ext              : md
-post_template         : post
-
 # Jekyll Configuration
 permalink             : pretty
 lsi                   : false
@@ -34,3 +30,16 @@ exclude:
   - README.md
   - LICENSE.md
   - Gemfile*
+
+# Jekyll Plugins
+gems:
+  - jekyll-paginate
+
+
+defaults:
+  - scope:
+      path: _posts/articles
+      type: posts
+    values:
+      layout: post
+      category: articles
