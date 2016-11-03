@@ -1,7 +1,6 @@
 ---
-layout: page
-permalink: /books-read/
 title: "Books I've Read"
+permalink: /books-read/
 ---
 
 In late 2010, I started tracking every book that I read. This is the list. The books are ordered ascending by start date, group by the year when I finished them.

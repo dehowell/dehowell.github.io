@@ -1,8 +1,6 @@
 ---
-layout: page
-permalink: /codex-vitae/
 title: "The Codex Vitae of David Howell"
-in_sidebar: true
+permalink: /codex-vitae/
 ---
 
 ## Beliefs
