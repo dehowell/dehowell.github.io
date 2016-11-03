@@ -1,4 +1,6 @@
 # Site Information
+source                : src
+
 title                 : howell.io
 tagline               : A digital commonplace book; a place to think in public.
 description           : ''
