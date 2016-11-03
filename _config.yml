@@ -1,54 +1,36 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# Site Information
+title                 : howell.io
+tagline               : 'A digital commonplace book; a place to think in public.'
+description           : ''
+url                   : "http://www.howell.io"
+timezone              : "America/New_York"
 
-kramdown:
-  input: GFM
-
-# Permalinks
-permalink:        pretty
-
-gems:
-  - jekyll-paginate
-
-# Setup
-title:            howell.io
-tagline:          'A digital commonplace book; a place to think in public.'
-description:      ''
-url:              http://www.howell.io
-timezone:         America/New_York
-
+# Author
 author:
-  name:           'David Howell'
-  url:            https://twitter.com/dehowell
+  name                : 'David Howell'
+  url                 : https://twitter.com/dehowell
 
-paginate:         5
+# Integrations
+google_analytics_id   : 'UA-72069603-1'
 
-# Custom vars
-google_analytics_id:  'UA-72069603-1'
+# Octopress Settings
+post_ext              : md
+post_template         : post
 
-# Octopress settings
-post_ext: md
-post_template: post
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      mathjax: false
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      in_sidebar: false
-      mathjax: false
-
+# Jekyll Configuration
+permalink             : pretty
+lsi                   : false
+future                : false
+show_drafts           : false
+markdown              : kramdown
+kramdown:
+  input               : GFM
+highlighter           : rouge
+include:
+  - _pages
 exclude:
-- vendor
-- script
-- README.md
-- LICENSE.md
-- Gemfile*
+  - vendor
+  - script
+  - README.md
+  - LICENSE.md
+  - Gemfile*
