@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "The Codex Vitae of David Howell"
-in_sidebar: true
 ---
 
 ## Beliefs

@@ -34,21 +34,6 @@ github:
 post_ext: md
 post_template: post
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      mathjax: false
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      in_sidebar: false
-      mathjax: false
-
 exclude:
 - vendor
 - script
