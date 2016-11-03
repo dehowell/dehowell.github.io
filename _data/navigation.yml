@@ -7,7 +7,5 @@
 - title: "Codex Vitae"
   url: /codex-vitae/
 
-- title: "Annotated Bibliographies"
-  subcategories:
-    - subtitle: "D3.js"
-      url: /tag/d3-bibliography/
+- title: "D3.js Annotated Bibliography"
+  url: /tag/d3-bibliography/
