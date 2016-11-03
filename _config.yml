@@ -35,6 +35,12 @@ exclude:
 gems:
   - jekyll-archives
 
+collections:
+  bibliographies:
+    output: true
+  references:
+    output: true
+
 defaults:
   - scope:
       path: _posts/articles
@@ -43,9 +49,17 @@ defaults:
       layout: post
       category: articles
   - scope:
+      path: ""
+      type: references
+    values:
+      layout: reference
+  - scope:
+      path: ""
+      type: bibliographies
+    values:
+      layout: bibliography
+  - scope:
       path: _pages
       type: pages
     values:
       layout: page
-
-# Plugin Configuration

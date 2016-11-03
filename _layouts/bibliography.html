@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post">
+  {{ content }} <h1>{{ path }}</h1>
+  <ol>
+    {% for ref in site.references %}
+
+      <li>
+        <a href="{{ ref.url }}">
+          {{ ref.source.author }}: &ldquo;{{ ref.source.title }}&rdquo;
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
