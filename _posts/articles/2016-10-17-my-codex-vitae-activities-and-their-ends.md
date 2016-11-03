@@ -4,7 +4,10 @@ title: "My Codex Vitae: Activities & Their Ends"
 date: 2016-10-17T13:38:29-04:00
 ---
 
-Last week, I posted [my beliefs]({{ /2016/10/09/my-codex-vitae-beliefs/ | absolute_url }}). The next section of my [Codex Vitae]({{ /codex-vitae/ | absolute_url }}) catalogues the activities that I've found most critical for my fulfillment and self-care.
+Last week, I posted [my beliefs][1]. The next section of my [Codex Vitae][2] catalogues the activities that I've found most critical for my fulfillment and self-care.
+
+[1]: {% post_url /articles/2016-10-09-my-codex-vitae-beliefs %}
+[2]: /codex-vitae/
 
 ## Activities & Their Ends
 

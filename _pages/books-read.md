@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /books-read/
 title: "Books I've Read"
 ---
 
