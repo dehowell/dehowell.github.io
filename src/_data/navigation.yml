@@ -4,5 +4,7 @@
   url: /codex-vitae/
 - title: "Now"
   url: /now/
+- title: "Favorite Posts"
+  url: /favorite/
 - title: "D3.js Annotated Bibliography"
   url: /tag/d3-bibliography/
