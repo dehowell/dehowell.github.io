@@ -1,10 +1,12 @@
 - title: "Home"
   url: /
-- title: "Codex Vitae"
-  url: /codex-vitae/
+- title: "About"
+  url: /about/
 - title: "Now"
   url: /now/
-- title: "Favorite Posts"
-  url: /favorite/
+- title: "Codex Vitae"
+  url: /codex-vitae/
+- title: "Archive"
+  url: /archive/
 - title: "D3.js Annotated Bibliography"
   url: /tag/d3-bibliography/

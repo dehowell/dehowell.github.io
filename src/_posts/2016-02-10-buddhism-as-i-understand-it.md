@@ -2,6 +2,8 @@
 layout: post
 title: "Buddhism As I Understand It"
 date: 2016-02-10T16:14:48-05:00
+tags:
+  - favorite
 ---
 
 - You are not your thoughts.

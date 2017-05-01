@@ -2,6 +2,8 @@
 layout: post
 title: "The Varieties of Door-Opening Experience"
 date: 2016-04-12T18:49:33-04:00
+tags:
+  - favorite
 ---
 
 Last winter, the lock on the primary entrance to my house broke. We'd been in the house for three years and still hadn't changed the locks, so I decided to replace all of the exterior door knobs together. Around the same time, an interior door knob broke and I replaced it and all the door knobs in the same hallway, so the styles would match.

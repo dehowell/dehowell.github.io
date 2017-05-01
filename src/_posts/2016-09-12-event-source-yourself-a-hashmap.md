@@ -2,6 +2,8 @@
 layout: post
 title: "Event Source Yourself a Hash Map"
 date: 2016-09-12T19:15:30-04:00
+tags:
+  - favorite
 ---
 
 [Event sourcing][5] is an architectural pattern where you persist _commands_ to mutate your data instead of overwriting the old values. Readers are responsible for building their own _view_ of the data from the sequence of edits.
