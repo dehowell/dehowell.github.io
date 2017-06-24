@@ -2,18 +2,18 @@
 source                : src
 
 title                 : howell.io
-tagline               : As unprincipled as the gods, and as much a jack-of-all-trades.
-description           : ''
+tagline               : "As unprincipled as the gods, and as much a jack-of-all-trades."
+description           : ""
 url                   : "http://www.howell.io"
 timezone              : "America/New_York"
 
 # Author
 author:
-  name                : 'David Howell'
+  name                : "David Howell"
   url                 : https://twitter.com/dehowell
 
 # Integrations
-google_analytics_id   : 'UA-72069603-1'
+google_analytics_id   : "UA-72069603-1"
 
 # Jekyll Configuration
 permalink             : pretty
